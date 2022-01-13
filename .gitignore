@@ -1,0 +1,6 @@
+*.xml
+*.iml
+*.nii
+*.jpg
+/.trained_models_lobe
+/.unet3d
